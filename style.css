@@ -1,0 +1,164 @@
+/* *{
+    background-color: grey;
+}  */
+/*.navbar {
+    
+    background-color: brown;
+} */
+/* Basic styling for the navbar */
+/* button {
+    color: violet;
+} */
+@font-face {
+    font-family: "Futurak";
+    src: url(futurak.ttf);
+}
+.navbar {
+    background-color: gray;
+    overflow: hidden;
+  }
+
+  /* Style for the navigation links */
+  .navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 35px 15px;
+    text-decoration: none;
+  }
+
+  /* Change color on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 200px;
+    padding: 16px;
+    margin: 20px auto;
+}
+
+/* Style the card header */
+*{
+    background-color: rgb(255, 251, 0)185, 224, 224;
+}
+.card-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Style the card image */
+.card-image {
+    width: 100%;
+    height: 150px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    
+}
+
+/* Style the card content */
+.card-content {
+    font-size: 16px;
+    line-height: 1.5;
+} 
+
+button {
+    padding: 8px 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+h1 {
+    font-family: "Futurak" ;
+    font-size:65px;
+    
+}
+.box {
+    width: 250px;
+    height: 170px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+
+    
+   
+  }
+  .order-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  .box2 {
+    width: 500px;
+    height: 350px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+   
+   
+  }  
+h3 {
+   color: red;
+   
+   
+    
+}
+.box3 {
+    width: 600px;
+    height: 350px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+   float: right;
+   
+  }
+  .box4 {
+    width: 250px;
+    height: 320px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+
+
+    
+   
+  } 
+h4 {
+    color: red;
+}  
+.box5 {
+    width: 250px;
+    height: 150px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+   
+  } 
+  .box6 {
+    width: 600px;
+    height: 350px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+   float: right;
+   
+  } 
